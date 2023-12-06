@@ -9,7 +9,7 @@ Each option can only be used once. For more complex configurations use a configu
 
 Documentation
 -------------
-- DLT Parser Release Notes: ReleaseNotes_Parser.txt
+DLT Parser Release Notes: ReleaseNotes_Parser.txt
 
 Command line usage
 ------------------
